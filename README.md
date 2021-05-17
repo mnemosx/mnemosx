@@ -8,8 +8,9 @@ Vue.js, and I also enjoy bringing to life beautiful designs by writing CSS (with
 Stylus). I like to write semantic, cross-browser compatible code by hand that is
 reuseable, maintainable, and easy to understand.
 
+
 #### 📚 Looking for my Resume? 
 
-📫 Reach me through [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/andis-kacerovskis/)
+📫 Reach me through [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/andis-kacerovskis/)
 
 📮 or drop me a message at <hello@andis.dev>
