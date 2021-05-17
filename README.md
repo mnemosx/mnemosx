@@ -11,6 +11,5 @@ reuseable, maintainable, and easy to understand.
 
 #### 📚 Looking for my Resume? 
 
-📫 Reach me through [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/andis-kacerovskis/)
-
+📫 Reach me through [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/andis-kacerovskis/)\
 📮 or drop me a message at <hello@andis.dev>
