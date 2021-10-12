@@ -9,9 +9,9 @@ Stylus). I like to write semantic, cross-browser compatible code by hand that is
 reuseable, maintainable, and easy to understand.
 
 
-#### 📚 Looking for my Resume? 
+#### 📚  Looking for my Resume? 
 
-📫 Reach me through [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/andis-kacerovskis/)\
-📮 or drop me a message at <hello@andis.dev>
+📫  Reach me through [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/andis-kacerovskis/)\
+📮  or drop me a message at <hello@andis.dev>
 
 ![](https://hit.yhype.me/github/profile?user_id=16293217)
