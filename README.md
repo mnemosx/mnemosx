@@ -4,7 +4,7 @@
 > I’m a dedicated professional front-end developer with a keen eye for detail
 and beautiful design, and a determination to deliver the very highest quality.
 The main areas of my expertise are JavaScript (as well as Typescript) together with
-Vue.js, and I also enjoy bringing to life beautiful designs by writing CSS (with Sass or
+React.js, Vue.js, and I also enjoy bringing to life beautiful designs by writing CSS (with Sass or
 Stylus). I like to write semantic, cross-browser compatible code by hand that is
 reuseable, maintainable, and easy to understand.
 
